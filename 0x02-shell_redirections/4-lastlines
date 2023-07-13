@@ -1,0 +1,3 @@
+#!/bin/bash
+ last 10 lines of /etc/passwd
+
